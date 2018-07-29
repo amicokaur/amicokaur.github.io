@@ -27,12 +27,23 @@ footer {
 }
 nav {
     background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+
 }
 header {
     background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+
+
+
 }
 article {
     color: #ebebeb;
     background: #777
+}
+div {
+    padding-top: 75px
 }
 
